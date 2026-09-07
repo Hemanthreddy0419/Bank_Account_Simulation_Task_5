@@ -1,0 +1,72 @@
+# Bank Account Simulation
+
+## Project Overview
+
+The Bank Account Simulation is a simple command-line-based Java application that simulates basic banking operations.
+
+The application allows users to create a bank account and perform transactions such as depositing money, withdrawing money, checking the balance, and viewing account details.
+
+This project is developed using Java OOP (Object-Oriented Programming) concepts.
+
+## 📌 Description
+
+A **Java-based CLI application** that simulates basic bank account operations using **Object-Oriented Programming (OOP)**.
+
+## 🎯 Objective
+
+To practice Java OOP concepts by implementing basic banking transactions such as depositing, withdrawing, checking balance, and viewing account details.
+
+## 🛠️ Technologies Used
+
+* **Java 17+**
+* **VS Code**
+* **Terminal**
+
+## ✨ Features
+
+* Create bank account
+* Deposit money
+* Withdraw money
+* Check account balance
+* View account details
+* Validate transactions
+* Menu-driven CLI
+
+## 📂 Project Structure
+
+```text
+Bank-Account-Simulation/
+├── BankAccount.java
+├── BankAccountSimulation.java
+└── README.md
+```
+
+## 🧠 Concepts Used
+
+* Classes & Objects
+* Encapsulation
+* Constructors
+* Methods
+* Getters
+* `Scanner`
+* `switch`
+* Loops
+* Conditional statements
+* Basic transaction handling
+
+
+
+## 💻 Sample Menu
+
+```text
+1. Deposit Money
+2. Withdraw Money
+3. Check Balance
+4. Account Details
+5. Exit
+```
+
+## 🎓 Learning Outcome
+
+This project provides practical experience in **Java OOP, encapsulation, class-based programming, and transaction handling**.
+
